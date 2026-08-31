@@ -1,0 +1,10 @@
+[
+  {
+    "method": "cheb_ttns_CBC",
+    "status": "ok",
+    "dipole_calls": 3,
+    "dipole_apply_s": 0.033635623985901475,
+    "dipole_phase_s": 0.0480704999063164,
+    "max_elastic_overlap": 1.3446095624905614e-07
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "native_npz": "/Users/link/Desktop/A_Python_code/Chebyshev_upload/Chebyshev/Direct_result/psi_min_ttns.npz",
+  "native_json": "/Users/link/Desktop/A_Python_code/Chebyshev_upload/Chebyshev/Direct_result/psi_min_ttns.json",
+  "pickle": "/Users/link/Desktop/A_Python_code/Chebyshev_upload/Chebyshev/Direct_result/psi_min.pkl",
+  "pickle_status": "saved",
+  "root_id": "site12",
+  "orthogonality_center_id": "site0",
+  "num_nodes": 13,
+  "bond_dims": {
+    "('site6', 'site7')": 7,
+    "('site5', 'site6')": 12,
+    "('site4', 'site5')": 12,
+    "('site12', 'site4')": 12,
+    "('site10', 'site11')": 12,
+    "('site9', 'site10')": 12,
+    "('site8', 'site9')": 12,
+    "('site12', 'site8')": 12,
+    "('site12', 'site3')": 12,
+    "('site3', 'site2')": 12,
+    "('site2', 'site1')": 12,
+    "('site1', 'site0')": 9
+  },
+  "norm": {
+    "real": 1.0000000000000002,
+    "imag": 0.0
+  },
+  "rescale_parameters_json": "/Users/link/Desktop/A_Python_code/Chebyshev_upload/Chebyshev/Direct_result/rescale_parameters.json",
+  "rescale_parameters_npz": "/Users/link/Desktop/A_Python_code/Chebyshev_upload/Chebyshev/Direct_result/rescale_parameters.npz"
+}

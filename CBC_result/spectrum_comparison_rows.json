@@ -1,0 +1,14 @@
+[
+  {
+    "method": "cheb_ttns_CBC",
+    "reference": "cheb_ttns_CBC",
+    "cheb_vector_s": 50.773612373974174,
+    "heff_s": 246.46972158295102,
+    "cheb_plus_heff_s": 297.2433339569252,
+    "mean_component_s": 16.92453745799139,
+    "vectors_each": 125,
+    "rel_l2_vs_ref": 0.0,
+    "max_abs_vs_ref": 0.0,
+    "mean_abs_vs_ref": 0.0
+  }
+]

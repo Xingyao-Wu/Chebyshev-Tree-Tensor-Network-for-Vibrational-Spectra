@@ -1,0 +1,3 @@
+from .potential_H2CO import get_potential_energy_H2CO
+from .potential_CH3CN import get_potential_energy_CH3CN, get_potential_energy_CH3CN_harmonic
+from .potential_harmonic import get_potential_energy_harmonic

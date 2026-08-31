@@ -1,0 +1,2 @@
+method,reference,cheb_vector_s,heff_s,cheb_plus_heff_s,mean_component_s,vectors_each,rel_l2_vs_ref,max_abs_vs_ref,mean_abs_vs_ref
+cheb_ttns_CBC,cheb_ttns_CBC,50.773612373974174,246.46972158295102,297.2433339569252,16.92453745799139,125,0.0,0.0,0.0

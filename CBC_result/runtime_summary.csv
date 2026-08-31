@@ -1,0 +1,2 @@
+method_key,method,status,cheb_vector_s,heff_s,cheb_plus_heff_s,mean_component_s,vectors_each,vectors_total,Hpsin_total_s,postprocess_total_s,psi_np1_total_s,orthogonalization_s,heff_effective_vectors_s,effective_cheb_vectors_s,effective_moments_s,spectrum_s,cached_from,error
+cbc,cheb_ttns_CBC,ok,50.773612373974174,246.46972158295102,297.2433339569252,16.92453745799139,125,375.0,48.64662637002766,0.01272020791657269,2.1112447599880397,9.185125082964078,0.3515327910427004,4.567578500136733,0.10072645894251764,150.04581874981523,,

@@ -1,0 +1,8 @@
+[
+  {
+    "method": "cheb_ttns_CBC",
+    "display_method": "CBC",
+    "mean_abs_error_pct": 1.3562739017354717,
+    "n_peaks": 6
+  }
+]

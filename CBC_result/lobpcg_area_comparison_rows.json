@@ -1,0 +1,74 @@
+[
+  {
+    "method": "cheb_ttns_CBC",
+    "lobpcg_peak": "0.361",
+    "lobpcg_members": "1-2",
+    "reference_peak_E": 0.3609976417767782,
+    "cheb_peak": 1,
+    "cheb_peak_E": 0.3652282676672981,
+    "lobpcg_two_area": 0.00020092091503502027,
+    "cheb_two_area": 0.00020197193293906732,
+    "delta_two_area": 1.051017904047047e-06,
+    "area_pct_error": 0.5231002973801189
+  },
+  {
+    "method": "cheb_ttns_CBC",
+    "lobpcg_peak": "0.901",
+    "lobpcg_members": "6",
+    "reference_peak_E": 0.9006729727988744,
+    "cheb_peak": 2,
+    "cheb_peak_E": 0.9030644152595347,
+    "lobpcg_two_area": 7.731285636348081e-05,
+    "cheb_two_area": 7.802207473592565e-05,
+    "delta_two_area": 7.092183724448381e-07,
+    "area_pct_error": 0.9173356228238406
+  },
+  {
+    "method": "cheb_ttns_CBC",
+    "lobpcg_peak": "1.034",
+    "lobpcg_members": "7-8",
+    "reference_peak_E": 1.034170521069759,
+    "cheb_peak": 3,
+    "cheb_peak_E": 1.040650406504062,
+    "lobpcg_two_area": 0.00021730582042998897,
+    "cheb_two_area": 0.00021968201401849737,
+    "delta_two_area": 2.376193588508402e-06,
+    "area_pct_error": 1.0934790351250432
+  },
+  {
+    "method": "cheb_ttns_CBC",
+    "lobpcg_peak": "1.393",
+    "lobpcg_members": "15,19",
+    "reference_peak_E": 1.392940224023971,
+    "cheb_peak": 4,
+    "cheb_peak_E": 1.3983739837398295,
+    "lobpcg_two_area": 7.841230311883863e-05,
+    "cheb_two_area": 7.86769445893917e-05,
+    "delta_two_area": 2.6464147055306323e-07,
+    "area_pct_error": 0.3374999330806327
+  },
+  {
+    "method": "cheb_ttns_CBC",
+    "lobpcg_peak": "1.483",
+    "lobpcg_members": "25-26",
+    "reference_peak_E": 1.4831717534255278,
+    "cheb_peak": 5,
+    "cheb_peak_E": 1.483427141963731,
+    "lobpcg_two_area": 0.0008775633624094288,
+    "cheb_two_area": 0.0008742063551977795,
+    "delta_two_area": -3.3570072116493026e-06,
+    "area_pct_error": -0.38253730219916415
+  },
+  {
+    "method": "cheb_ttns_CBC",
+    "lobpcg_peak": "2.265",
+    "lobpcg_members": "84",
+    "reference_peak_E": 2.2647232012718295,
+    "cheb_peak": 7,
+    "cheb_peak_E": 2.2589118198874223,
+    "lobpcg_two_area": 0.00027780754173878646,
+    "cheb_two_area": 0.00027175416296250176,
+    "delta_two_area": -6.053378776284702e-06,
+    "area_pct_error": -2.1789828808810743
+  }
+]

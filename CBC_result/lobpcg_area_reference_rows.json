@@ -1,0 +1,38 @@
+[
+  {
+    "lobpcg_peak": "0.361",
+    "lobpcg_members": "1-2",
+    "peak_E": 0.3609976417767782,
+    "lobpcg_two_area": 0.00020092091503502027
+  },
+  {
+    "lobpcg_peak": "0.901",
+    "lobpcg_members": "6",
+    "peak_E": 0.9006729727988744,
+    "lobpcg_two_area": 7.731285636348081e-05
+  },
+  {
+    "lobpcg_peak": "1.034",
+    "lobpcg_members": "7-8",
+    "peak_E": 1.034170521069759,
+    "lobpcg_two_area": 0.00021730582042998897
+  },
+  {
+    "lobpcg_peak": "1.393",
+    "lobpcg_members": "15,19",
+    "peak_E": 1.392940224023971,
+    "lobpcg_two_area": 7.841230311883863e-05
+  },
+  {
+    "lobpcg_peak": "1.483",
+    "lobpcg_members": "25-26",
+    "peak_E": 1.4831717534255278,
+    "lobpcg_two_area": 0.0008775633624094288
+  },
+  {
+    "lobpcg_peak": "2.265",
+    "lobpcg_members": "84",
+    "peak_E": 2.2647232012718295,
+    "lobpcg_two_area": 0.00027780754173878646
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "method": "cheb_ttns_CBC",
+    "component": "x",
+    "kept": 125,
+    "orth_cut": 1e-14,
+    "condition": 4200039547.306547,
+    "identity_err": 1.9897118151592558e-07
+  },
+  {
+    "method": "cheb_ttns_CBC",
+    "component": "y",
+    "kept": 125,
+    "orth_cut": 1.534672277343416e-14,
+    "condition": 1424512214.7572675,
+    "identity_err": 2.1729753482517994e-07
+  },
+  {
+    "method": "cheb_ttns_CBC",
+    "component": "z",
+    "kept": 125,
+    "orth_cut": 1.5382693022602683e-14,
+    "condition": 1512909217.2762847,
+    "identity_err": 8.829145654395916e-08
+  }
+]

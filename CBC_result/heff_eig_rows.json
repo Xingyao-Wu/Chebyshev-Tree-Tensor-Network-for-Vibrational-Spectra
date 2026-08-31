@@ -1,0 +1,23 @@
+[
+  {
+    "method": "cheb_ttns_CBC",
+    "component": "x",
+    "Emin": -0.981885872162898,
+    "Emax": -0.8954387940977063,
+    "anti_H_norm": 9.061599213808293e-09
+  },
+  {
+    "method": "cheb_ttns_CBC",
+    "component": "y",
+    "Emin": -0.9852334011573735,
+    "Emax": -0.8780279869423948,
+    "anti_H_norm": 5.4726016655100005e-09
+  },
+  {
+    "method": "cheb_ttns_CBC",
+    "component": "z",
+    "Emin": -0.985234899791081,
+    "Emax": -0.8522579161862427,
+    "anti_H_norm": 5.0594935579706e-09
+  }
+]

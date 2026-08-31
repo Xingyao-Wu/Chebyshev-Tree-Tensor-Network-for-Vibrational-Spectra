@@ -1,0 +1,15 @@
+[
+  {
+    "method": "cheb_ttns_CBC",
+    "status": "ok",
+    "components": 3,
+    "vectors_each": 125,
+    "vectors_total": 375,
+    "cheb_vector_s": 50.773612373974174,
+    "mean_component_s": 16.92453745799139,
+    "Hpsin_total_s": 48.64662637002766,
+    "postprocess_total_s": 0.01272020791657269,
+    "psi_np1_total_s": 2.1112447599880397,
+    "moments": 125
+  }
+]

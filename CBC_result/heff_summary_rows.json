@@ -1,0 +1,20 @@
+[
+  {
+    "method": "cheb_ttns_CBC",
+    "component": "x",
+    "heff_dim": 125,
+    "heff_component_s": 80.53792358306237
+  },
+  {
+    "method": "cheb_ttns_CBC",
+    "component": "y",
+    "heff_dim": 125,
+    "heff_component_s": 80.46520558302291
+  },
+  {
+    "method": "cheb_ttns_CBC",
+    "component": "z",
+    "heff_dim": 125,
+    "heff_component_s": 85.46659241686575
+  }
+]

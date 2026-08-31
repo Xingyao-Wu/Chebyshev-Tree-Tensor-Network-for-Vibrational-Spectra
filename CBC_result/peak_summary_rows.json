@@ -1,0 +1,9 @@
+[
+  {
+    "method": "cheb_ttns_CBC",
+    "peaks": 10,
+    "sum_two_area": 0.0018291565340617108,
+    "prominence": 0.00031587362693403435,
+    "min_distance_points": 6
+  }
+]

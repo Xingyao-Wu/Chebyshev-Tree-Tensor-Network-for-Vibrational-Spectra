@@ -1,0 +1,16 @@
+{
+  "saved_at": "2026-08-16T17:03:07.927375",
+  "saved_from": "live Jupyter kernel",
+  "connection_file": "/Users/link/Library/Jupyter/runtime/kernel-v37130fb683e556437f554b1b2964559e88706c198.json",
+  "notebook": "/Users/link/Desktop/A_Python_code/Chebyshev_upload/Chebyshev/CH3CN_T3NS_12dim_125N_Direct_Truncate_mu0.ipynb",
+  "basis_preset": "balanced",
+  "cheb_ttns_basis_size": 125,
+  "n_energy_grid": 1600,
+  "use_cached_cbc_result": false,
+  "contraction_keys": [
+    "cbc"
+  ],
+  "cbc_status": "ok",
+  "cbc_cached_from": "",
+  "result_dir": "/Users/link/Desktop/A_Python_code/Chebyshev_upload/Chebyshev/CBC_result"
+}

@@ -1,0 +1,15 @@
+{
+  "E_min": 9.83746358867246,
+  "E_max": 298.29175355237453,
+  "a": 160.6580855494037,
+  "shift": 1.048732296868416,
+  "W_prime": 0.9875,
+  "safety_factor": 1.1,
+  "rescale_max_bond_dim": 12,
+  "rescale_num_sweeps": 1,
+  "rescale_max_iter": 40,
+  "rescale_dmrg_site": "two-site",
+  "run_rescale_check": false,
+  "E_min_rescale_check": NaN,
+  "E_max_rescale_check": NaN
+}

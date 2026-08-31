@@ -1,0 +1,23 @@
+[
+  {
+    "method_key": "cbc",
+    "method": "cheb_ttns_CBC",
+    "status": "ok",
+    "cheb_vector_s": 50.773612373974174,
+    "heff_s": 246.46972158295102,
+    "cheb_plus_heff_s": 297.2433339569252,
+    "mean_component_s": 16.92453745799139,
+    "vectors_each": 125,
+    "vectors_total": 375.0,
+    "Hpsin_total_s": 48.64662637002766,
+    "postprocess_total_s": 0.01272020791657269,
+    "psi_np1_total_s": 2.1112447599880397,
+    "orthogonalization_s": 9.185125082964078,
+    "heff_effective_vectors_s": 0.3515327910427004,
+    "effective_cheb_vectors_s": 4.567578500136733,
+    "effective_moments_s": 0.10072645894251764,
+    "spectrum_s": 150.04581874981523,
+    "cached_from": "",
+    "error": ""
+  }
+]

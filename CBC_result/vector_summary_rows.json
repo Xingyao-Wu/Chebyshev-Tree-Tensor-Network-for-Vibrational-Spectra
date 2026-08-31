@@ -1,0 +1,20 @@
+[
+  {
+    "method": "cheb_ttns_CBC",
+    "component": "x",
+    "len_v_ket": 125,
+    "len_v_bra": 125
+  },
+  {
+    "method": "cheb_ttns_CBC",
+    "component": "y",
+    "len_v_ket": 125,
+    "len_v_bra": 125
+  },
+  {
+    "method": "cheb_ttns_CBC",
+    "component": "z",
+    "len_v_ket": 125,
+    "len_v_bra": 125
+  }
+]

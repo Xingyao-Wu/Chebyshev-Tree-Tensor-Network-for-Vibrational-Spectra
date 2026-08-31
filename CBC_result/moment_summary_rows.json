@@ -1,0 +1,17 @@
+[
+  {
+    "method": "cheb_ttns_CBC",
+    "component": "x",
+    "effective_moments": 40000
+  },
+  {
+    "method": "cheb_ttns_CBC",
+    "component": "y",
+    "effective_moments": 40000
+  },
+  {
+    "method": "cheb_ttns_CBC",
+    "component": "z",
+    "effective_moments": 40000
+  }
+]

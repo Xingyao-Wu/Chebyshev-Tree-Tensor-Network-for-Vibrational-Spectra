@@ -1,0 +1,29 @@
+{
+  "E_min": 9.837465954260193,
+  "E_max": 299.05855432147314,
+  "a": 161.0851631412325,
+  "shift": 1.0485699692164394,
+  "W_prime": 0.9875,
+  "safety_factor": 1.1,
+  "E_max_plot": 4.0,
+  "source_notebook": "/Users/link/Desktop/A_Python_code/Chebyshev_upload/Chebyshev/CH3CN_T3NS_12dim_125N_Direct_Truncate_mu0.ipynb",
+  "save_dir": "/Users/link/Desktop/A_Python_code/Chebyshev_upload/Chebyshev/Direct_result",
+  "rescale_max_bond_dim": 12,
+  "rescale_num_sweeps": 1,
+  "rescale_max_iter": 40,
+  "rescale_dmrg_site": "two-site",
+  "run_rescale_check": true,
+  "E_min_rescale_check": 9.837465954260193,
+  "E_max_rescale_check": 299.05855432147314,
+  "basis_preset": "balanced",
+  "svd_max_bond_dim": 12,
+  "cheb_ttns_basis_size": 125,
+  "cheb_ttns_num_sweeps": 2,
+  "effective_cheb_moments": 40000,
+  "n_energy_grid": 1600,
+  "reference_method": "direct_truncate",
+  "contraction_methods": [
+    "cheb_ttns_Density",
+    "cheb_ttns_Direct_Truncate"
+  ]
+}
