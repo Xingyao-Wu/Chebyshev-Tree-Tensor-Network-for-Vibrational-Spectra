@@ -1,0 +1,2 @@
+method,mean_signed_area_pct_error,mean_abs_area_pct_error,max_abs_area_pct_error,rms_area_pct_error,n_peaks
+D20 one-node tangent,-15.030179403922974,15.905223383195825,49.53867228496996,26.22335691305008,6

@@ -1,0 +1,149 @@
+{
+  "method": "DMRG",
+  "topology": "threetree",
+  "max_bond_dim": 20,
+  "num_sweeps": 6,
+  "max_iter": 80,
+  "site": "two-site",
+  "initial_state": "harmonic",
+  "initial_virtual_dim": 1,
+  "num_orb": 1,
+  "expand_root_bond_dim": 1,
+  "root_bond_noise": 0.0,
+  "seed": 1234,
+  "orb_energies": [
+    9.9055
+  ],
+  "sweeps": [
+    {
+      "sweep": 1,
+      "local_E_min": 9.853304093171419,
+      "E_min": 9.853304093171365,
+      "sweep_s": 305.3559281672351,
+      "max_state_bond_dim": 20,
+      "state_bond_dims": {
+        "('site6', 'site7')": 7,
+        "('site5', 'site6')": 20,
+        "('site4', 'site5')": 9,
+        "('site12', 'site4')": 1,
+        "('site10', 'site11')": 20,
+        "('site9', 'site10')": 20,
+        "('site8', 'site9')": 9,
+        "('site12', 'site8')": 1,
+        "('site12', 'site3')": 1,
+        "('site3', 'site2')": 9,
+        "('site2', 'site1')": 20,
+        "('site1', 'site0')": 9
+      }
+    },
+    {
+      "sweep": 2,
+      "local_E_min": 9.853304028061663,
+      "E_min": 9.853304028061714,
+      "sweep_s": 349.3197962078266,
+      "max_state_bond_dim": 20,
+      "state_bond_dims": {
+        "('site6', 'site7')": 7,
+        "('site5', 'site6')": 20,
+        "('site4', 'site5')": 9,
+        "('site12', 'site4')": 1,
+        "('site10', 'site11')": 20,
+        "('site9', 'site10')": 20,
+        "('site8', 'site9')": 9,
+        "('site12', 'site8')": 1,
+        "('site12', 'site3')": 1,
+        "('site3', 'site2')": 9,
+        "('site2', 'site1')": 20,
+        "('site1', 'site0')": 9
+      }
+    },
+    {
+      "sweep": 3,
+      "local_E_min": 9.853304028006118,
+      "E_min": 9.853304028006148,
+      "sweep_s": 316.5721009168774,
+      "max_state_bond_dim": 20,
+      "state_bond_dims": {
+        "('site6', 'site7')": 7,
+        "('site5', 'site6')": 20,
+        "('site4', 'site5')": 9,
+        "('site12', 'site4')": 1,
+        "('site10', 'site11')": 20,
+        "('site9', 'site10')": 20,
+        "('site8', 'site9')": 9,
+        "('site12', 'site8')": 1,
+        "('site12', 'site3')": 1,
+        "('site3', 'site2')": 9,
+        "('site2', 'site1')": 20,
+        "('site1', 'site0')": 9
+      }
+    },
+    {
+      "sweep": 4,
+      "local_E_min": 9.85330402800602,
+      "E_min": 9.853304028005878,
+      "sweep_s": 317.47772262524813,
+      "max_state_bond_dim": 20,
+      "state_bond_dims": {
+        "('site6', 'site7')": 7,
+        "('site5', 'site6')": 20,
+        "('site4', 'site5')": 9,
+        "('site12', 'site4')": 1,
+        "('site10', 'site11')": 20,
+        "('site9', 'site10')": 20,
+        "('site8', 'site9')": 9,
+        "('site12', 'site8')": 1,
+        "('site12', 'site3')": 1,
+        "('site3', 'site2')": 9,
+        "('site2', 'site1')": 20,
+        "('site1', 'site0')": 9
+      }
+    },
+    {
+      "sweep": 5,
+      "local_E_min": 9.853304028005912,
+      "E_min": 9.853304028005915,
+      "sweep_s": 335.85451908409595,
+      "max_state_bond_dim": 20,
+      "state_bond_dims": {
+        "('site6', 'site7')": 7,
+        "('site5', 'site6')": 20,
+        "('site4', 'site5')": 9,
+        "('site12', 'site4')": 1,
+        "('site10', 'site11')": 20,
+        "('site9', 'site10')": 20,
+        "('site8', 'site9')": 9,
+        "('site12', 'site8')": 1,
+        "('site12', 'site3')": 1,
+        "('site3', 'site2')": 9,
+        "('site2', 'site1')": 20,
+        "('site1', 'site0')": 9
+      }
+    },
+    {
+      "sweep": 6,
+      "local_E_min": 9.853304028005898,
+      "E_min": 9.853304028005857,
+      "sweep_s": 307.9479637918994,
+      "max_state_bond_dim": 20,
+      "state_bond_dims": {
+        "('site6', 'site7')": 7,
+        "('site5', 'site6')": 20,
+        "('site4', 'site5')": 9,
+        "('site12', 'site4')": 1,
+        "('site10', 'site11')": 20,
+        "('site9', 'site10')": 20,
+        "('site8', 'site9')": 9,
+        "('site12', 'site8')": 1,
+        "('site12', 'site3')": 1,
+        "('site3', 'site2')": 9,
+        "('site2', 'site1')": 20,
+        "('site1', 'site0')": 9
+      }
+    }
+  ],
+  "final_E_min": 9.853304028005875,
+  "final_max_bond_dim": 20,
+  "state_base": "/Users/link/Desktop/A_Python_code/Chebyshev_upload/Chebyshev/ch3cn/saved_results/CH3CN_ground_t3ns_dmrg_D20/ground_state",
+  "total_s": 1932.809944666922
+}

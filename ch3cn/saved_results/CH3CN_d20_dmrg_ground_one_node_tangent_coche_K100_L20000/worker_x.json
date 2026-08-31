@@ -1,0 +1,36 @@
+{
+  "component": "x",
+  "method": "D20 one-node tangent",
+  "K": 100,
+  "L": 20000,
+  "ground": {
+    "energy": 9.853304028005875,
+    "state_base": "/Users/link/Desktop/A_Python_code/Chebyshev_upload/Chebyshev/ch3cn/saved_results/CH3CN_ground_t3ns_dmrg_D20/ground_state",
+    "max_bond_dim": 20
+  },
+  "grid": {
+    "E_grid_kind": "omega_1000cm"
+  },
+  "scaling": {
+    "a": 160.59064236886647,
+    "shift": 1.0488566511887627,
+    "E_min": 9.853304028005875,
+    "E_max": 298.1865028266525,
+    "W_prime": 0.9875,
+    "safety_factor": 1.1
+  },
+  "source": {
+    "connected_weight": 0.0002486879948533065,
+    "tangent_weight": 0.0002486699285966869,
+    "captured_fraction": 0.9999273537243715
+  },
+  "diagnostics": {
+    "three_term_residual_max": 8.223825229966853e-19,
+    "projected_hamiltonian_relative_hermiticity_defect": 9.021109624813713e-16,
+    "raw_prefix_moment_relative_l2": 4.360614517562022e-13,
+    "effective_rank": 22,
+    "max_abs_h_eff_eigenvalue": 0.9848321851994245,
+    "mean_projected_action_s": 0.04803362713195383,
+    "lossy_recurrence_truncation": false
+  }
+}

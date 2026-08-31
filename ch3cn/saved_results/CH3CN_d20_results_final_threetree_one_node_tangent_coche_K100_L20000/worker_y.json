@@ -1,0 +1,37 @@
+{
+  "component": "y",
+  "method": "D20 one-node tangent",
+  "K": 100,
+  "L": 20000,
+  "ground": {
+    "energy": 9.837431244698488,
+    "state_index": 0,
+    "state_base": "/Users/link/Desktop/A_Python_code/Chebyshev_upload/Chebyshev/Results_final/ch3cn/threetree/max_bond_dim_20/states/lobpcg_state_0",
+    "max_bond_dim": 20
+  },
+  "grid": {
+    "E_grid_kind": "omega_1000cm"
+  },
+  "scaling": {
+    "a": 160.59948290640477,
+    "shift": 1.0487544390969903,
+    "E_min": 9.837431244698488,
+    "E_max": 298.1865028266525,
+    "W_prime": 0.9875,
+    "safety_factor": 1.1
+  },
+  "source": {
+    "connected_weight": 0.0003339016497944415,
+    "tangent_weight": 0.00033347352878344914,
+    "captured_fraction": 0.9987178230138847
+  },
+  "diagnostics": {
+    "three_term_residual_max": 9.704888178644232e-19,
+    "projected_hamiltonian_relative_hermiticity_defect": 2.614382642585442e-13,
+    "raw_prefix_moment_relative_l2": 2.2996330261690725e-12,
+    "effective_rank": 30,
+    "max_abs_h_eff_eigenvalue": 0.9852310798204101,
+    "mean_projected_action_s": 0.5944967812811955,
+    "lossy_recurrence_truncation": false
+  }
+}

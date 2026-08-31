@@ -1,0 +1,4 @@
+component,K,mean_projected_action_s,projected_actions_total_s,effective_hamiltonian_time_s,effective_hamiltonian_projection_s,effective_hamiltonian_diagonalization_s,other_recorded_time_s,component_wall_time_s,projected_actions_estimated,effective_hamiltonian_recorded,effective_hamiltonian_benchmarked,effective_hamiltonian_time_source,wall_time_estimated
+x,100,0.6243120766989887,62.43120766989887,0.0031407498754560947,,0.0031407498754560947,0.0,62.434348419774324,1,1,1,saved_matrix_benchmark,1
+y,100,0.5944967812811955,59.44967812811955,0.0030699584167450666,,0.0030699584167450666,0.0,59.452748086536296,1,1,1,saved_matrix_benchmark,1
+z,100,0.6030036904010921,60.30036904010922,0.0030394787900149822,,0.0030394787900149822,0.0,60.30340851889923,1,1,1,saved_matrix_benchmark,1
